@@ -1,11 +1,16 @@
 _repo: The-Fairy-and-the-Witch_63192
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63192-h/images/i_cover-detail.jpg
 creator:
   author:
     agent_name: Nelson, A. D.
     gutenberg_agent_id: '52322'
     url: http://www.gutenberg.org/2009/agents/52322
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63192#The-Fairy-and-the-Witch
 gutenberg_issued: '2020-09-13'
 gutenberg_type: Text
 identifiers:
